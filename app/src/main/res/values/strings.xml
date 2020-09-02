@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi_1er_Py_Android</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="btn_entrar">Entrar</string>
+</resources>
